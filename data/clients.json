@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "645fe2fb2a2f181c93783cee"
+  },
+  "name": "Nicolás Santa Ana",
+  "foto": "https://picsum.photos/400/225",
+  "description": "Prueba de descripción de cliente",
+  "projects": [
+    "645fb4b134380bc4181cf692",
+    "645fb47534380bc4181cf691"
+  ]
+},{
+  "_id": {
+    "$oid": "645fe508def7ad3faf049692"
+  },
+  "name": "Gonzalo Spina",
+  "foto": "https://picsum.photos/400/225",
+  "description": "Prueba de descripción de Gonzalo",
+  "projects": []
+},{
+  "_id": {
+    "$oid": "646139fe63f785555cfb17fd"
+  },
+  "name": "Sol Vallejos",
+  "foto": "https://picsum.photos/400/225",
+  "description": "Prueba de descripción de Sol",
+  "projects": [
+    "645a58500eb7626cad7fa3cd"
+  ]
+}]
